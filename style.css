@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+.heading{
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    font-size: 25;
+    width: 100%;
+   margin: 0px;
+    
+
+}
+.sound{
+    float: right;
+}
+.sound1{
+    float: left;
+}
+.volume{
+    background-color: darkorange;
+    color: rgb(196, 2, 2);
+
+}
+
+.speed{
+    background-color: darkorange;
+    color: rgb(196, 2, 2);
+
+}
+canvas{
+    border-radius: 10px;
+    border: ghostwhite 3px;
+    box-shadow: 5px 5px 20px gold;
+}
